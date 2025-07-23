@@ -1,0 +1,5 @@
+* [Home](/)
+* [Guide](guide.md)
+* * [自动化](/automation/README.md "自动化")
+* * * [自动回复](/automation/auto-reply "自动回复")
+* * * [群发消息](/automation/bulkmessage "群发消息")
