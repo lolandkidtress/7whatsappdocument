@@ -10,7 +10,7 @@
 
 1、设置关键词
 
-![auto-reply1](/images/auto-reply1.webp)
+![auto-reply1](/images/auto-reply1.png)
 
 有 2 种方式：
 
