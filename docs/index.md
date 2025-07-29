@@ -26,7 +26,7 @@
 
 ## 登录 WhatsApp 账号
 
-![whatsapplogin](/imageS/whatsapplogin.png)
+![whatsapplogin](/images/whatsapplogin.png)
 
 点击登录按钮，会弹出 WhatsApp 登录二维码。扫码后即可授权后台获取账号数据。支持同时登录管理多个账号，并聚合在一个页面进行客户沟通。
 
