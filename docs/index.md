@@ -8,7 +8,7 @@
 
 目前有两种方式获取安装包：
 
-1. 当您在 [7WhatsApp 官网](https://7whatsapp.org/) 购买对应版本后，将收到一封包含安装包的邮件。
+1. 当您在 [7WhatsApp 官网](https://7wapilot.com/) 直接下载
 
 2. 对接的工作人员直接发送给您。
 
